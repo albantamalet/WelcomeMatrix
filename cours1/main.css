@@ -1,0 +1,46 @@
+/* style.css */
+head{
+  background-image:src="images/lucio battisti album.JPG"alt="fond";
+}
+body{
+  background-image:src="images/lucio battisti album.JPG"alt="header";
+  font-size: 25px;
+  font-family: Helvetica;
+}
+
+h1{
+  font-family: new york times;
+  width: 450px; 
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
+  color: darkblue;
+  font-weight: lighter;
+  font-size: 35px;
+}
+h2 {
+  font-family: Courier;
+  color: rebeccapurple;
+  font-weight: lighter;
+  font-size: 24px;
+
+}
+h3 {
+  font-family: Courier;
+  color: darkblue;
+  font-weight: lighter;
+  font-size: 0.8em;
+}
+h3 {
+  width: 600px;
+  margin: 0 auto;
+  background-color: floralwhite;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+  }
